@@ -1,0 +1,504 @@
+*{
+    margin: 0;
+    font-family: Arial;
+    border: border-box;
+}
+
+.navbar0{
+    height: 50px;
+    background-color:white;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+
+}
+
+.navbar1{
+    background-image: url(Student\ Woman.jpg);
+    background-size: cover;
+    height: 90px;
+    width: 90px;
+    margin-top: 8px;
+    margin-left: -300px;
+}
+
+.panel p{
+
+   display: inline;
+   margin-left: 20px;
+   text-align: center;
+}
+
+#box1{
+    margin-left: 25px;
+    background-color: antiquewhite;
+    color: black;
+    height: 30px;
+    text-align: center;
+    margin-top: 15px;
+    padding: 10px;
+    border-radius: 20px;
+
+}
+header{
+    margin-top: 50px;
+}
+/* #student{
+    height: 50px;
+    width: 50px;
+} */
+#stu1{
+    height: 350px;
+    width: 350px;
+    margin-left: 1100px;
+    margin-top: 100px;
+}
+#para1{
+    margin-top: -250px;
+    /* margin-right: -100px; */
+    margin-left: 90px;
+    color: blue;
+    font-weight: bold;
+}
+#para2{
+    font-weight: bolder;
+}
+span{
+    color: green;
+}
+#para3{
+    margin-left: 90px;
+    margin-top: -60px;
+}
+#para5{
+    margin-left: 90px;
+    background-color: cornflowerblue;
+    color: white;
+    height: 20px;
+    text-align: center;
+    font-weight: bold;
+    /* margin-top: 15px; */
+    padding: 15px;
+    border-radius: 10px;
+    width: 100px;
+}
+#para6{
+    border: 1px solid wheat;
+    margin-left: 30px;
+    background-color: whitesmoke;
+    color: black;
+    height: 20px;
+    text-align: center;
+    /* font-weight: bold; */
+    /* margin-top: 15px; */
+    padding: 15px;
+    border-radius: 10px;
+    width: 100px;
+}
+#para4 div{
+    display: inline;
+}
+
+#para7{
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#para8{
+    height: 400px;
+    width: 400px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    /* text-align: left;   */
+    margin: 10px;
+
+}
+#para8-1{
+    text-align: left;
+    margin-left: 50px ;
+    margin-top: 50px;
+    padding: 50px;
+}
+#para8-2{
+    margin-left: 50px;
+    padding: 50px;
+    margin-top: -90px;
+}
+
+#para9{
+    height: 400px;
+    width: 400px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    margin: 10px;
+
+}
+#para9-1{
+    text-align: left;
+    margin-left: 50px ;
+    margin-top: 50px;
+    padding: 50px;
+}
+#para9-2{
+    margin-left: 50px;
+    padding: 50px;
+    margin-top: -90px;
+}
+
+#para10{
+    height: 400px;
+    width: 400px;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+#para10-1{
+    text-align: left;
+    margin-left: 50px ;
+    margin-top: 50px;
+    padding: 50px;
+}
+#para10-2{
+    margin-left: 50px;
+    padding: 50px;
+    margin-top: -90px;
+}
+#box2{
+    background-color: blanchedalmond;
+    height: 750px;
+    margin-top: 100px;
+}
+#box21{
+    text-align: center;
+    /* margin-top: 15px; */
+}
+#box22{
+    margin-top: 150px;
+}
+#box23{
+    margin-top: 5px;
+}
+img{
+    display: inline;
+    height: 100px;
+    width: 100px;
+    margin-top: 100px;
+    margin-left: 10px;
+}
+#box24 img{
+    display: inline;
+    justify-content: space-evenly;
+    margin-left: 100px;
+}
+
+#box3k{
+    height: 20px;
+    width: 100px;
+    background-color: rgb(80, 78, 75);
+    text-align: center;
+    padding: 30px;
+    margin-top: 100px;
+    margin-left: 700px;
+    color: white;
+    border-radius: 6px;
+}
+
+#sirimg img{
+    height: 400px;
+    width: 400px;
+    margin-top: 190px;
+    margin-left: 1100px;
+}
+#sirimg p{
+    color: cadetblue;
+    margin-top: -300px;
+    margin-left: 200px;
+}
+#sirimg h1{
+   margin-left: 200px;
+}
+#para11 p{
+    margin-left: 500px;
+}
+#newpara1 p{
+    font-weight: 100;
+    color: rgb(140, 128, 161);
+    margin-left: 200px;
+    text-decoration: solid;
+}
+#back1 pre{
+    height: 100px;
+    width: 150px;
+    background-color: antiquewhite;
+    margin-left: 200px;
+    text-align: center;
+    padding: 15px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+#back2 pre{
+    height: 100px;
+    width: 150px;
+    background-color: rgb(216, 182, 126);
+    margin-left: 100px;
+    text-align: center;
+    padding: 15px;
+    border: 1px solid black;
+    border-radius: 10px;
+    
+}
+
+#back3 pre{
+    height: 100px;
+    width: 150px;
+    background-color: rgb(219, 169, 216);
+    margin-left: 110px;
+    text-align: center;
+    padding: 15px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+    
+
+#back div{
+    display: inline-block;
+}
+.bitt1{
+    height: 60px;
+    width: 200px;
+    border-radius: 10px;
+    border: 1px solid rgb(201, 177, 177);
+    background-color: rgb(231, 220, 206);
+    margin-top: 20px;
+    margin-left: 200px;
+    font-weight: bold;
+}
+#head1{
+    margin-left: 100px;
+    margin-top: 90px;
+}
+
+/* not understand */
+
+#main-id{
+    display: flex;
+    width: 400px;
+    height: 100px;
+    margin-left: 600px;
+}
+
+#1111{
+    height: 800px;
+    width: 400px;
+}
+/* not understand */
+#course{
+    margin-top: 200px;
+    color: blue;
+    margin-left: 100px;
+}
+#course-1{
+    margin-top: 20px;
+    margin-left: 100px;
+}
+#mainidds div{
+    height: 100px;
+    width: 200px;    
+    background-color: beige;
+    text-align: center;
+    display: inline-block;
+    margin-top: 50px;
+   margin-left: 10px;
+   /* justify-content: center; */
+   /* align-items: center; */
+    border: 2px solid grey;
+    border-radius: 10px;
+    
+    
+}
+#boxmod-1{
+    text-align: center;
+    margin-top: 80px;
+    height: 300px;
+    width: 1500px;
+    background-color: rgb(192, 163, 219);
+    /* margin-left: 60px; */
+    /* background-size: cover; */
+}
+#round-1{
+    height: 100px;
+    width: 100px;
+    margin: 2px solid black;
+    border-radius: 50%;
+    background-color: aliceblue;
+    display: inline-block;
+    margin-left: 80px;
+}
+#round-2{
+    height: 100px;
+    width: 100px;
+    margin: 2px solid black;
+    border-radius: 50%;
+    background-color: aliceblue;
+    display: inline-block;
+    margin-left: 80px;
+}
+
+#round-3{
+    height: 100px;
+    width: 100px;
+    margin: 2px solid black;
+    border-radius: 50%;
+    background-color: aliceblue;
+    display: inline-block;
+    margin-left: 80px;}
+
+#round-4{
+        height: 100px;
+        width: 100px;
+        margin: 2px solid black;
+        border-radius: 50%;
+        background-color: aliceblue;
+        display: inline-block;
+        margin-left: 80px;}    
+#round-5{
+    height: 100px;
+    width: 100px;
+    margin: 2px solid black;
+    border-radius: 50%;
+    background-color: aliceblue;
+    display: inline-block;
+    margin-left: 80px;   
+}
+
+#momo1{
+    text-align: center;
+    margin-top: 80px;
+    height: 300px;
+    width: 1500px;
+}
+#momo2{
+    height: 300px;
+    width: 400px;
+    background-color: rgb(147, 147, 148);
+   padding: 50px;
+   margin-top: -200px;
+   margin-left: 60px;
+   border-radius: 10px;
+}
+#momo2 i{
+    margin-left: 10px;
+}
+
+#pani2{
+    margin-top: -400px;
+    margin-left: 600px;
+    font-weight: bolder;
+}
+#pani1{
+    margin-left: 600px;
+    height: 100px;
+    width: 100px;
+    padding: 25px;
+}
+#pani3{
+    margin-left: 800px;
+    height: 100px;
+    width: 100px;
+    padding: 25px;
+    margin-top: -131px;
+}
+#pani4{
+    margin-left: 600px;
+    height: 100px;
+    width: 100px;
+    padding: 25px;
+    margin-top: -100px;
+}
+#pani5{
+    margin-left: 800px;
+    height: 100px;
+    width: 100px;
+    padding: 25px;
+    margin-top: -150px;
+}
+#pani6{
+    margin-left: 600px;
+    height: 100px;
+    width: 100px;
+    padding: 25px;
+    margin-top: -100px;
+}
+#pani7{
+    margin-left: 800px;
+    height: 100px;
+    width: 100px;
+    padding: 25px;
+    margin-top: -150px;
+}
+#pani8{
+    margin-left: 600px;
+    height: 100px;
+    width: 1500px;
+    padding: 25px;
+    margin-top: -100px;
+
+}
+#pani9{
+    margin-left: 800px;
+    height: 100px;
+    width: 100px;
+    padding: 25px;
+    margin-top: -150px;
+}
+#box56{
+    height: 80px;
+    width: 200px;
+    border-radius: 10px;
+    color: azure;
+    background-color: rgb(154, 154, 251);
+    text-decoration: solid;
+    margin-left: 700px;
+    margin-top: -100px;
+    font-weight: bolder;
+}
+#fotter{
+    height: 1000px;
+    width: 1500px;
+    background-color: black;
+    color: antiquewhite;
+    margin-top: 100px;
+    display: inline-block;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+ul{
+    margin-top: 20px;
+    }
+    ul a {
+        display: block;
+        font-size: 0.85rem;
+        margin-top: 20px;
+        color: #dddd;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
